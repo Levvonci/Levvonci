@@ -12,7 +12,6 @@
 
 ∘ 🐦 [Twitter](https://twitter.com/Levvonci)
 
-∘ 📸 [Instagram](https://www.instagram.com/levvonci/)
 
 
 
