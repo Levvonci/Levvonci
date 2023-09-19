@@ -10,7 +10,7 @@
 ⟹ 🔭 LF someone to collaborate on some project
 
 
-∘ 𝕏  [𝕏](https://twitter.com/Levvonci)
+∘ [𝕏](https://twitter.com/Levvonci)
 
 
 
