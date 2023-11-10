@@ -12,4 +12,4 @@
 
 ∘ [𝕏](https://twitter.com/Levvonci)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levvonci&theme=dark&hide=HTML&HIDE=ampl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levvonci&theme=dark&hide=HTML&HIDE=AMPL)](https://github.com/anuraghazra/github-readme-stats)
