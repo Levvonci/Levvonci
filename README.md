@@ -10,7 +10,6 @@
 ⟹ 🔭 LF someone to collaborate on some project
 
 
-∘ [𝕏](https://twitter.com/Levvonci)
 
 ### Stats
 <a href="https://github.com/anuraghazra/convoychat">
